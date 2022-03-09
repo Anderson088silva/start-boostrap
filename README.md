@@ -1,4 +1,4 @@
-# start-boostrap
+# start-boostrap/
 ***Primeira aula GitHub***
 ***Plano de aula 09/03***
 1.Criar uma conta.
